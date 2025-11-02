@@ -31,6 +31,13 @@ nav a:hover {
   text-align: center;
 }
 
+.video-box iframe {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  border: none;
+}
+
 ul {
   list-style-type: square;
   margin-left: 20px;
